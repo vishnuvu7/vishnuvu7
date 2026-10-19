@@ -1,4 +1,5 @@
 # Hey, I'm Vishnu 👋
+[![wakatime](https://wakatime.com/badge/user/1a5131b3-233f-4eeb-86cd-e0f553f3d8d6.svg)](https://wakatime.com/@1a5131b3-233f-4eeb-86cd-e0f553f3d8d6)
 
 ### Software Engineer | Flutter & .NET Developer | Building Scalable Digital Products
 
