@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/1a5131b3-233f-4eeb-86cd-e0f553f3d8d6.svg)](https://wakatime.com/@1a5131b3-233f-4eeb-86cd-e0f553f3d8d6)
+
 I'm Vishnu. I'm a Software Programmer, with interests in mobile app development, data analytics and data science. I love the challenge of coding and I am passionate about it.
 
 - 🔭 I’m currently working on flutter and android projects
