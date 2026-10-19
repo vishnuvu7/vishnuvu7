@@ -77,7 +77,7 @@ I've worked on production applications serving large customer bases, with a focu
 
 I enjoy understanding how systems work, experimenting with new technologies, and writing about the lessons I learn along the way.
 
-I believe good software engineering isn't just about writing code — it's about making thoughtful trade-offs, solving meaningful problems, and continuously improving.
+I believe good software engineering isn't just about writing code; it's about making thoughtful trade-offs, solving meaningful problems, and continuously improving.
 
 You can find my projects, experiments, and technical writing on my [portfolio and blog](https://grtvishnucodes.com).
 
@@ -89,7 +89,7 @@ I'm always interested in discussing software engineering, architecture, mobile d
 
 🌐 [Portfolio & Blog](https://grtvishnucodes.com)
 
-💼 [LinkedIn](https://www.linkedin.com/vishnuvu)
+💼 [LinkedIn](https://www.linkedin.com/in/vishnuvu/)
 
 ---
 
